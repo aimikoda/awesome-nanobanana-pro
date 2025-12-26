@@ -13,8 +13,7 @@ This repository focuses on **high-fidelity image prompts** sourced from X (Twitt
 Consider subscribing to [this free newsletter](https://zerolu.substack.com/p/hello-there) or follow me on [X](https://x.com/zerolu_eth) if you want more high quality content like this.
 
 ### Sponsor: [Free Sora Watermark Remover(Now with batch processing)](https://thesorawatermarkremover.com)
-
-[<img width="600" height="265" alt="image" src="https://github.com/user-attachments/assets/b087445c-d3ad-4152-8e28-33a5ca49d4b5" />](https://thesorawatermarkremover.com)
+[<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/c3bc6143-b01d-46ab-a1cc-ea823ddd5a10" />](https://thesorawatermarkremover.com)
 
 This repo gets up to **20,000 visitors per day**, [mail me](mailto:iamzerolu@gmail.com) if you want a limited sponsor slot!
 
